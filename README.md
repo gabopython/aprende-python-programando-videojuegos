@@ -1,7 +1,7 @@
 # aprende-programacion-programando-videojuegos
 
 
-  Windows
+  instalar pygame en Windows
 ```
 pip install pygame
 ```
