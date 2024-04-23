@@ -1,5 +1,7 @@
 # aprende-programacion-programando-videojuegos
-python, pygame, programacion desde 0
 
 
-cambio desde local
+  Windows
+'''
+pip install pygame
+'''
