@@ -12,3 +12,32 @@ Mac
 ```
 pip3 install pygame
 ```
+
+
+codigo base de pygame
+
+```
+import pygame
+from pygame.locals import *
+
+
+WIDTH, HEIGHT = 400, 500
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+clock = pygame.time.Clock()
+
+# constants
+
+
+# variables
+
+
+while True:
+    for event in pygame.event.get():
+        if event.type == QUIT:
+            quit()
+
+    # code here
+
+    pygame.display.update()
+    clock.tick(30)
+```
