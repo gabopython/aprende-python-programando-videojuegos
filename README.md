@@ -16,7 +16,7 @@ pip3 install pygame
 
 codigo base de pygame
 
-```
+```python
 import pygame
 from pygame.locals import *
 
