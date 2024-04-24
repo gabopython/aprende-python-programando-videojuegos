@@ -7,3 +7,7 @@ por [@gabopython](https://www.tiktok.com/@gabopython?lang=en
 ```
 pip install pygame
 ```
+Mac
+```
+pip3 install pygame
+```
