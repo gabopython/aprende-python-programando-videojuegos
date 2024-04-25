@@ -39,6 +39,6 @@ while True:
     # code here
 
     pygame.display.update()
-    WIN.fill((0, 0, 0))
+    screen.fill((0, 0, 0))
     clock.tick(30)
 ```
