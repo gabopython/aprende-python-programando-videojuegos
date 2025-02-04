@@ -1,6 +1,9 @@
 # aprende-programacion-programando-videojuegos
 por [@gabopython](https://www.tiktok.com/@gabopython?lang=en)
 
+Curso de programación en
+[youtube](https://youtu.be/3o6nieWbqHU?si=TC7essbpCG_WRSlQ)
+
 <img src="https://github.com/gabopython/IMAGES/blob/main/make_the_best_and_simplest_logo_ever_remeber_sh.jpg" alt="drawing" width="60"/>
 
 
